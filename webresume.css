@@ -10,7 +10,7 @@
 }
 body{
     font-family: 'Poppins' , sans-serif;
-    zoom: 100%;
+    zoom: 75%;
 }
 
 html{
@@ -642,9 +642,6 @@ header .logo img{
         display:none;
     }
 
-   body{
-       zoom:100%;
-   }
     .mobile-nav ul li a{
         transform: all .3s ease;
         padding-bottom: 3px;;
@@ -723,9 +720,7 @@ header .logo img{
 
 @media (max-width:576px){
 
-    body{
-        zoom: 100%;
-    }
+  
     header .logo img{
         display:block;
         width:200.44px;
