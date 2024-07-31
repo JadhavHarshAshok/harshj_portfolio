@@ -914,14 +914,9 @@ header .logo img{
     }
 }
 
-@media (max-width: 1920px) and (min-width: 1024px){
+@media (width: 1919px) and (min-width: 1078px){
     body{
         zoom: 75%;
     }
 }
 
-@media (min-width: 1920px){
-    body{
-        zoom: 100%;
-    }
-}
