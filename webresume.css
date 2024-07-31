@@ -642,9 +642,6 @@ header .logo img{
         display:none;
     }
 
-    body{
-        zoom: 100%;
-    }
 
     .mobile-nav ul li a{
         transform: all .3s ease;
