@@ -913,10 +913,3 @@ header .logo img{
 
     }
 }
-
-@media (min-width: 1919px) and (max-width: 1919px){
-    body{
-        zoom: 75%;
-    }
-}
-
